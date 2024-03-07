@@ -40,7 +40,7 @@ return (0);
 }
 
 /**
- * _str2int.c - this converts string to an
+ * _str2int - this converts string to an
  * integer
  * @s: String to be converted
  * Return: 0 if there is no numbers in the string,
